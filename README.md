@@ -1,6 +1,6 @@
-# todo_kvant
+# ToDo App
 
-TODO App for Kvant
+TODO App
 
 ## Getting Started
 
