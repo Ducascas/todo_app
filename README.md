@@ -1,6 +1,6 @@
 # ToDo App
 
-TODO App
+ToDo App
 
 ## Getting Started
 
