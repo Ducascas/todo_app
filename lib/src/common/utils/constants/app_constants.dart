@@ -1,4 +1,4 @@
-const String appTitle = 'Todo App for Kvant';
+const String appTitle = 'ToDo App';
 const String editTitle = 'Tasks';
 const String titleNewTask = 'New task';
 const String titleEditStatus= 'Edit Status';
