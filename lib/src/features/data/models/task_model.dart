@@ -1,5 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:todo_kvant/src/features/domain/domain.dart';
+import 'package:todo/src/features/domain/domain.dart';
 
 part 'task_model.freezed.dart';
 part 'task_model.g.dart';
