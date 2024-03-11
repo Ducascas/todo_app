@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:retrofit/retrofit.dart';
-import 'package:todo_kvant/src/common/common.dart';
-import 'package:todo_kvant/src/features/data/data.dart';
+import 'package:todo/src/common/common.dart';
+import 'package:todo/src/features/data/data.dart';
 
 part 'task_client.g.dart';
 
